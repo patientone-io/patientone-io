@@ -2,7 +2,7 @@
 
 # patientone
 
-`Homelab & Web • Building for daily use • Buduję dla siebie`
+`Self-hosted & Web • Local-first`
 
 <p align="center">
   <a href="https://patientone.uk"><img src="https://img.shields.io/badge/Web-patientone.uk-1E6FB9?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
@@ -15,14 +15,14 @@
 
 ### 🇬🇧 About
 
-Hi. I build useful tools - from browser extensions and CLI utilities to homelab automations and low-level Linux scripts.
+Hi. I build tools I use myself every day — browser extensions, Docker and homelab automations, CLI utilities and Linux scripts.
 
-I'm a hobbyist builder creating tools I actually need and use myself every single day. That's why I polish them: they have to be rock-solid, fast, and completely bloat-free. 100% local-first, zero telemetry.
+Fast, reliable and self-contained: local-first, zero telemetry.
 
 ---
 
 ### 🇵🇱 O mnie
 
-Cześć. Tworzę użyteczne narzędzia - od wtyczek do przeglądarki, przez narzędzia CLI i automatyzacje homelaba, po niskopoziomowe skrypty pod Linuksa.
+Buduję narzędzia, których sam używam każdego dnia — rozszerzenia przeglądarki, automatyzacje Dockera i homelaba, CLI oraz skrypty pod Linuksa.
 
-Jestem hobbystą i piszę wyłącznie rzeczy, których sam realnie potrzebuję i z których codziennie korzystam. Dlatego je dopieszczam: mają działać niezawodnie, błyskawicznie i bez zbędnego balastu. 100% local-first, zero telemetrii.
+Mają być szybkie, niezawodne i niezależne: local-first, zero telemetrii.
